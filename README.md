@@ -5,13 +5,18 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. Its importance inludes quality Assurance, efficiency and productivity, risk management and collaboration and communication
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1968: The NATO Software Engineering Conference coined the term "software engineering," addressing the "software crisis" and emphasizing structured development. 1970s: The Waterfall Model introduced sequential development phases, offering a structured approach to project management. 2001: The Agile Manifesto formalized agile methodologies, promoting iterative development, collaboration, and adaptability, transforming how software is developed and managed.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Requirement Analysis: This initial phase involves gathering and documenting user needs, system requirements, and project goals.
+Design: The design phase translates requirements into a detailed system architecture and design specifications.
+Implementation: In this phase, developers write the actual code based on the design specifications. 
+Testing: Testing verifies that the software functions correctly and meets the specified requirements.
+Deployment: Once testing is completed successfully, the software is deployed to the production environment, making it available for end-users.
+Maintenance: After deployment, the software enters the maintenance phase, where it is updated and modified to correct bugs, improve performance, or adapt to changing user needs.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
